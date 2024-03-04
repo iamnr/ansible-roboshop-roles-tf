@@ -1,29 +1,29 @@
 [mongodb]
-mongodb.joindevops.online
+mongodb.devopspractice.site
 
 [catalogue]
-catalogue.joindevops.online
+catalogue.devopspractice.site
 
 [web]
-web.joindevops.online
+web.devopspractice.site
 
 [redis]
-redis.joindevops.online
+redis.devopspractice.site
 
 [user]
-user.joindevops.online
+user.devopspractice.site
 
 [cart]
-cart.joindevops.online
+cart.devopspractice.site
 
 [mysql]
-mysql.joindevops.online
+mysql.devopspractice.site
 
 [shipping]
-shipping.joindevops.online
+shipping.devopspractice.site
 
 [rabbitmq]
-rabbitmq.joindevops.online
+rabbitmq.devopspractice.site
 
 [payment]
-payment.joindevops.online
+payment.devopspractice.site
